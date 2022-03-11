@@ -599,8 +599,18 @@ progress {
   content: "— ";
 }
 
+
 .img-fluid {
   max-width: 100%;
+  height: auto;
+}
+
+.img-fluid-md {
+  max-width: 50%;
+  height: auto;
+}
+.img-fluid-sm {
+  max-width: 30%;
   height: auto;
 }
 
